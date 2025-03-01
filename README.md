@@ -19,7 +19,7 @@
 
 
 <p align="left">
-<a href="https://linkedin.com/in/meherab hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meherab hossain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/meherab-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meherab hossain" height="30" width="40" /></a>
 <a href="https://instagram.com/m_e_h_e_r_a_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_e_h_e_r_a_b" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/meherab_nahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="meherab_nahin" height="30" width="40" /></a>
 </p>
