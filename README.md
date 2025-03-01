@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Meherab Hossain</h1>
 <h3 align="center">A Passionate MERN Stack Developer From Bangladesh</h3>
-(img align="right" alt="Coding" width="400" src="https://qualitica.net/storage/admin/2023/05/16/03a512b91093e4082e6e90fae0141be3567fbddd.png")
+<img align="right" alt="Coding" width="400" src="https://qualitica.net/storage/admin/2023/05/16/03a512b91093e4082e6e90fae0141be3567fbddd.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meherab303&label=Profile%20views&color=0e75b6&style=flat" alt="meherab303" /> </p>
 
